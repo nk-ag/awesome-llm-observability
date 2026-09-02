@@ -244,6 +244,7 @@ The observability layer is standardizing on **OpenTelemetry** - emit these and y
 | 🟢 [LLM Guard](https://github.com/protectai/llm-guard) | 3.2k | MIT | Security toolkit: PII redaction, prompt-injection & toxicity detection. |
 | 🟢 [Presidio](https://github.com/data-privacy-stack/presidio) | 10.7k | MIT | PII detection, redaction & anonymization; the standard for scrubbing prompts and traces. |
 | 🟢 [garak](https://github.com/NVIDIA/garak) | 9.1k | Apache-2.0 | LLM vulnerability scanner: probes for prompt injection, jailbreaks & data leakage (NVIDIA). |
+| 🔵 [Failproof](https://github.com/FailproofAI/failproofai) | 1.7k | MIT (open-core) | Detects and prevents agent failure by enforcing policies at runtime — behavior steering for agents that take actions without human oversight, backed by a full audit trail of every prompt and tool call. Plugs into all major agent harnesses (Claude Code, Codex, Cursor, Copilot, Gemini CLI, OpenCode, Goose, LangGraph). |
 
 ## Self-Hosted / Open-Source First
 
